@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-
 - $\pi + e = ?$ by Ankita Varigonda ('25)
 - Understanding Volume with Integration by Jiko Chatterjee ('27)
 - Zero Knowledge Proofs by Thomas Ha ('26)
@@ -11,6 +10,10 @@
 - The Principle of Least Action by Daniel Ge ('27)
 - Applied Celestial and Mathematical Concepts in Indigenous Scientific Knowledge by Neil Dutta ('27)
 - Colliding Computation of Pi by Aiden Liang ('26)
+
+## Access
+
+You can either read [the published version](https://github.com/shs-math-magazine/2025/published.pdf) or the magazine or review the [$\LaTeX$ source code](https://github.com/shs-math-magazine/2025/source/main.tex).
 
 ## Contributors
 
