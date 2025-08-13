@@ -13,7 +13,7 @@
 
 ## Access
 
-You can either read [the published version](https://github.com/shs-math-magazine/2025/published.pdf) of the magazine or review the [LaTeX source code](https://github.com/shs-math-magazine/2025/blob/main/source/main.tex).
+You can either read [the published version](https://github.com/shs-math-magazine/2025/blob/main/published.pdf) of the magazine or review the [LaTeX source code](https://github.com/shs-math-magazine/2025/blob/main/source/main.tex).
 
 ## Contributors
 
