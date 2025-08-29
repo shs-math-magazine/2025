@@ -43,4 +43,4 @@ Thanks to the SHS Doodle Club for designing the cover of this edition of the mag
 
 ## License
 
-This work is licensed under the [CC-BY-SA-4.0](LICENSE) license.
+This work is licensed under the [CC BY-SA 4.0](LICENSE) license.
